@@ -1,0 +1,4 @@
+import coolSubroutines as cs
+
+cs.newPrint("blue")
+print("\033[34mThis should be blue\033[0m")
